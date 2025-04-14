@@ -16,4 +16,4 @@ El juego consiste en encontrar pares de cartas iguales (en algunas preguntas, so
 1. Descarga el archivo `mi-juego.exe`
 2. Haz doble clic sobre él
 
-Desarrollado por: [Andrea Campos]
+Desarrollado por: Andrea Campos
