@@ -5,7 +5,7 @@ Juego de Estructuras Dinamicas hecho con **HTML, CSS y JavaScript**, empaquetado
 
 ## 📥 Descargar
 
-👉 [Haz clic aquí para descargar el juego](./mi-juego.exe)
+👉 [Haz clic aquí para descargar el juego](./mi-juego.exe). Esto te dirigira al archivo .exe en el repositorio, debes darle clic a “View raw” e inmediatamente el navegador descarga el ejecutable del juego
 
 ## 🧠 Descripción del juego
 
